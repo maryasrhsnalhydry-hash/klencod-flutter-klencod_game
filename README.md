@@ -1,2 +1,2 @@
-# klencod-flutter-klencod_game
-Project created by KLENCOD IDE
+ارفع محتويات هذا المجلد مباشرة إلى جذر المستودع (يجب أن يظهر pubspec.yaml في الصفحة الأولى).
+بعد الرفع شغّل Build APK من تبويب Actions، ثم حمّل الـ APK من Artifacts.
